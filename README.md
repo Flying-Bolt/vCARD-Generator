@@ -22,33 +22,7 @@ Ein professionelles Desktop-Tool zur Erstellung von vCard-QR-Codes für digitale
 
 ## Screenshots
 
-> Vorschau der Benutzeroberfläche
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  vCard QR-Code Generator                                │
-├──────────────────────────┬──────────────────────────────┤
-│ 👤 Kontaktdaten          │ 🔍 Vorschau                  │
-│  Vorname        [      ] │  ┌────────────────────────┐  │
-│  Nachname       [      ] │  │                        │  │
-│  Position       [      ] │  │   [QR-Code Vorschau]   │  │
-│  Mobiltelefon   [      ] │  │                        │  │
-│  Festnetz       [      ] │  └────────────────────────┘  │
-│  E-Mail         [      ] │                              │
-│  Straße         [      ] │  [🔄 Vorschau]               │
-│  Hausnummer     [      ] │  [✅ QR-Code speichern]      │
-│  PLZ            [      ] │                              │
-│  Ort            [      ] │  ████████████████████        │
-│  Land           [      ] │  Bereit.                     │
-│ 🖼️ Logo (optional)       │                              │
-│  [Pfad...] [Durchsuchen] │                              │
-│ 💾 Ausgabe               │                              │
-│  [Pfad...] [Ordner]      │                              │
-│ 📋 Profile               │                              │
-│  [Dropdown] [Laden]      │                              │
-│             [Speichern]  │                              │
-└──────────────────────────┴──────────────────────────────┘
-```
+![vCard QR-Code Generator – Benutzeroberfläche](prtScr.png)
 
 ---
 

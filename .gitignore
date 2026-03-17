@@ -1,6 +1,7 @@
 # Generierte QR-Codes
 *.png
 !ATOS.png
+!prtScr.png
 
 # Profile-Daten (persönliche Kontaktdaten)
 QR-Code.json
