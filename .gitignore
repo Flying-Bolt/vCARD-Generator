@@ -1,0 +1,24 @@
+# Generierte QR-Codes
+*.png
+!ATOS.png
+
+# Profile-Daten (persönliche Kontaktdaten)
+QR-Code.json
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Windows
+Thumbs.db
+*:Zone.Identifier
+*:encryptable
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sonstiges
+*.docx
